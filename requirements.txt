@@ -1,0 +1,3 @@
+Python 2.7
+
+All imported modules are from Python Standard Library

@@ -1,0 +1,5 @@
+To run event_data.py:
+	python event_data.py filename
+
+To run tests.py:
+	python test.py
