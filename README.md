@@ -1,5 +1,5 @@
 #INTRODUCTION#
-At Conversion Logic we process a lot of event-level data - enrichment, transformation, aggregation, and so forth. This coding exercise is a simplified, small-scale example of this type of processing. In production we do this at scale, on heavy-duty infrastructure - but the core concepts are similar.
+Processing a lot of event-level data - enrichment, transformation, aggregation, and so forth. This coding exercise is a simplified, small-scale example of this type of processing. In production we do this at scale, on heavy-duty infrastructure - but the core concepts are similar.
 
 #EVENT DATA#
 For this exercise, consider a stream of incoming events representing users' online-advertising-related activities. These activities include ad impressions, clicks and conversions that we have observed (through a variety of means) and normalized into a common event format.
